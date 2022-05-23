@@ -41,6 +41,7 @@
  - [NEED / science & education](https://www.youtube.com/c/NecessaryEducation){:target="\_blank"}
  - [Ціна Держави](https://www.youtube.com/c/%D0%A6%D1%96%D0%BD%D0%B0%D0%94%D0%B5%D1%80%D0%B6%D0%B0%D0%B2%D0%B8){:target="\_blank"}
  - [Книга-мандрівка. Україна](https://www.youtube.com/c/%D0%9A%D0%BD%D0%B8%D0%B3%D0%B0%D0%BC%D0%B0%D0%BD%D0%B4%D1%80%D1%96%D0%B2%D0%BA%D0%B0%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B0){:target="\_blank"}
+ - [Максим Прудеус](https://www.youtube.com/c/maksymprudeus)
 
 #### Їжа
  - [Лілія Цвіт](https://www.youtube.com/channel/UCa0gsGhdgrKA2dz8Axgbasg){:target="\_blank"}
