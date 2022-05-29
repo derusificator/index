@@ -9,7 +9,7 @@ permalink: /youtube/
 - [Історія Без Міфів](https://www.youtube.com/c/%D0%86%D1%81%D1%82%D0%BE%D1%80%D1%96%D1%8F%D0%91%D0%B5%D0%B7%D0%9C%D1%96%D1%84%D1%96%D0%B2){:target="\_blank"}
 - [Історія для дорослих](https://www.youtube.com/c/%D0%86%D1%81%D1%82%D0%BE%D1%80%D1%96%D1%8F%D0%B4%D0%BB%D1%8F%D0%B4%D0%BE%D1%80%D0%BE%D1%81%D0%BB%D0%B8%D1%85){:target="\_blank"}
 - [Kozak UA](https://www.youtube.com/channel/UC9r2U5gtIN5vKixDQz3zcFg){:target="\_blank"}
-- [Інститут ніціональної пам'яті](https://www.youtube.com/c/UINPofficial){:target="\_blank"}
+- [Інститут національної пам'яті](https://www.youtube.com/c/UINPofficial){:target="\_blank"}
 - [Історична правда](https://www.youtube.com/channel/UCXc--oAVPSkHprgP6ho7dvQ){:target="\_blank"}
 - [Wild Fox](https://www.youtube.com/c/wildfoxfilm){:target="\_blank"}
 - [Локальна історія](https://www.youtube.com/c/LOCALHISTORYua){:target="\_blank"}
