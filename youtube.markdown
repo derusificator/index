@@ -13,6 +13,7 @@ permalink: /youtube/
 - [Історична правда](https://www.youtube.com/channel/UCXc--oAVPSkHprgP6ho7dvQ){:target="\_blank"}
 - [Wild Fox](https://www.youtube.com/c/wildfoxfilm){:target="\_blank"}
 - [Локальна історія](https://www.youtube.com/c/LOCALHISTORYua){:target="\_blank"}
+- [Олександр Алфьоров](https://www.youtube.com/channel/UCcctR-4JHKfMji_tNVPp62w/){:target="\_blank"}
 
 # Наука
 - [Цікава наука](https://www.youtube.com/channel/UCMIVE71tHEUDkuw8tPxtzSQ){:target="\_blank"}
@@ -27,6 +28,7 @@ permalink: /youtube/
 - [Geek Journal](https://www.youtube.com/c/GeekJournal){:target="\_blank"}
 - [Загін Кіноманів](https://www.youtube.com/c/%D0%97%D0%B0%D0%B3%D1%96%D0%BD%D0%9A%D1%96%D0%BD%D0%BE%D0%BC%D0%B0%D0%BD%D1%96%D0%B2){:target="\_blank"}
 - [Cлух](https://www.youtube.com/c/slukh-media){:target="\_blank"}
+- [Пан Карпан](https://www.youtube.com/c/PanKarpan/){:target="\_blank"}
 
 # Подорожі
 - [Ukraїner](https://www.youtube.com/c/ukrainernet){:target="\_blank"}
@@ -34,6 +36,7 @@ permalink: /youtube/
 - [Орест Зуб](https://www.youtube.com/channel/UCAK9Prco9PVR703mkR9TELg){:target="\_blank"}
 - [ПроПоходи](https://www.youtube.com/user/propohody){:target="\_blank"}
 - [Відвідати всі країни](https://www.youtube.com/c/Gotothegoal/){:target="\_blank"}
+- [Tour de Ukraine](https://www.youtube.com/c/TourdeUkraine/){:target="\_blank"}
 
 # Саморозвиток
 - [Англійська по-простому](https://www.youtube.com/c/RalfVirst){:target="\_blank"}
@@ -61,11 +64,19 @@ permalink: /youtube/
 - [Степан Процюк](https://www.youtube.com/c/%D0%A1%D1%82%D0%B5%D0%BF%D0%B0%D0%BD%D0%9F%D1%80%D0%BE%D1%86%D1%8E%D0%BA5){:target="\_blank"}
 - [Твоя полиця](https://www.youtube.com/channel/UClrBI-amIeDuV0AtuZVTS7g){:target="\_blank"}
 - [Бабай](https://www.youtube.com/c/%D0%91%D0%90%D0%91%D0%90%D0%99){:target="\_blank"}
+- [Anna Book Diary](https://www.youtube.com/c/AnnaBookDiary/){:target="\_blank"}
+- [Ksenia Kellerman](https://www.youtube.com/c/KseniaKellerman/){:target="\_blank"}
+- [Вишневий Цвіт](https://www.youtube.com/channel/UC74_-1ivw94o2O0xH74YlDQ/){:target="\_blank"}
+- [Imagination](https://www.youtube.com/channel/UCheYpAbvk_iOHvPc42vknCg/){:target="\_blank"}
 
 # Ігри
 - [Alex_D20](https://www.youtube.com/user/RAmAntik21){:target="\_blank"}
 - [Play State Ukraine](https://www.youtube.com/channel/UCG4QkyNnDrMF0oJuo_AniPA){:target="\_blank"}
 - [Тайлеруто](https://www.youtube.com/c/%D0%A2%D0%B0%D0%B9%D0%BB%D0%B5%D1%80%D1%83%D1%82%D0%BE){:target="\_blank"}
+- [Падон](https://www.youtube.com/c/pad0n/){:target="\_blank"}
+- [Rendaros UA](https://www.youtube.com/c/RendarosUA/){:target="\_blank"}
+- [OLDBoi](https://www.youtube.com/c/OLDboiUA/){:target="\_blank"}
+- [GameStreetUA](https://www.youtube.com/c/GameStreetUA/){:target="\_blank"}
 
 # Спорт
 - [Вацко Live](https://www.youtube.com/channel/UCm1HATU1Q8W12d6_p6p6FdA){:target="\_blank"}
@@ -76,6 +87,16 @@ permalink: /youtube/
 # Техніка та ґаджети
 - [Tech.Ніка](https://www.youtube.com/user/NicolePro100){:target="\_blank"}
 - [Огляд UA](https://www.youtube.com/channel/UCC1NDWUoOELGpgAaaA5wCxg){:target="\_blank"}
+- [BlogMayster](https://www.youtube.com/c/BLOGMAYSTER/){:target="\_blank"}
+
+# IT
+- [Rubyist UA](https://www.youtube.com/channel/UCmYJ-cfkI4mRD5J1uzVRDFw/){:target="\_blank"}
 
 # Різне
 - [UkraineWithin](https://www.youtube.com/c/UkraineWithin){:target="\_blank"}
+- [Сімейні обставини](https://www.youtube.com/c/Soblya/){:target="\_blank"}
+- [Normalna](https://www.youtube.com/c/NormalnaDasha/){:target="\_blank"}
+- [AdrianZP](https://www.youtube.com/c/AdrianZPcity/){:target="\_blank"}
+- [Маніфест](https://www.youtube.com/c/manifestinua/){:target="\_blank"}
+- [BIHUS info](https://www.youtube.com/c/BIHUSinfo/){:target="\_blank"}
+- [Богдан Амосов](https://www.youtube.com/channel/UCdhimYIVA5JfNIJCbTaYRhQ/){:target="\_blank"}
