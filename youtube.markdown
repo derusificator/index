@@ -4,6 +4,8 @@ title: YouTube
 permalink: /youtube/
 ---
 
+Окрім каналів наведених нижче, рекомендуємо відвідати [рейтинг українських каналів проекту Маніфест](https://manifest.in.ua/rt/){:target="\_blank"}
+
 # Історія
 - [імені Т.Г. Шевченка](https://www.youtube.com/channel/UC1Q2MLy0DEswY-1ZheTcYig){:target="\_blank"}
 - [Історія Без Міфів](https://www.youtube.com/c/%D0%86%D1%81%D1%82%D0%BE%D1%80%D1%96%D1%8F%D0%91%D0%B5%D0%B7%D0%9C%D1%96%D1%84%D1%96%D0%B2){:target="\_blank"}
