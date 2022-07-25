@@ -8,3 +8,4 @@ permalink: /help/
 - [Kolo](https://www.koloua.com/){:target="\_blank"}
 - [Армія SOS](https://armysos.com.ua/uk/){:target="\_blank"}
 - [Сергій Притула](https://www.facebook.com/serhiyprytula){:target="\_blank"}
+- [BoomBoard](https://theboomboard.com/){:target="\_blank"}
